@@ -21,10 +21,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="kelly| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kelly| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]:  https://x.com/KellyRankins12)
-[youtube]:  https://www.youtube.com/@zerokrr
-[instagram]: https://www.instagram.com/kelly_rankins/)
-[linkedin]:  https://www.linkedin.com/in/kelly-rankins-0013682b8/)
+[twitter]:  (https://x.com/KellyRankins12)
+[youtube]: (https://www.youtube.com/@zerokrr)
+[instagram]: (https://www.instagram.com/kelly_rankins/)
+[linkedin]:  (https://www.linkedin.com/in/kelly-rankins-0013682b8/)
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
