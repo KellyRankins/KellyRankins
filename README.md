@@ -22,7 +22,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="kelly| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://x.com/KellyRankins12
-[youtube]: https://www.youtube.com/c/(https://www.youtube.com/@zerokrr)
+[youtube]: (https://www.youtube.com/@zerokrr)
 [instagram]: https://www.instagram.com/kelly_rankins/
 [linkedin]: https://www.linkedin.com/in/kelly-rankins-0013682b8/
 
